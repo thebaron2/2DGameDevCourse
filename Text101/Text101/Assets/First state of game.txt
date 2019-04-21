@@ -1,0 +1,7 @@
+Start of CYOA game:
+You wake up in a bed, not knowing where or who you are. 
+You look out the window and realize that you are on spaceship going through an asteroid field.
+As you realize this an alarm starts to go off, you are thinking one of the asteroids must have hit the ship.
+You quickly get dressed and head to the door. When you open the door the alarm gets louder, you have to find out what is going on.
+
+You can either A) go right towards the elevator or B) go left towards the emergency ladder.

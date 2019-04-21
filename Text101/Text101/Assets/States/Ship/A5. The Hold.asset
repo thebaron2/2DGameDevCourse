@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 132d38ce12ca3b548b8f4986a4acea25, type: 3}
+  m_Name: A5. The Hold
+  m_EditorClassIdentifier: 
+  storyText: "You quickly set foot on the floor below and just as you do that something
+    big hits the ship and you barely manage to keep standing. Suddenly you hear some
+    people talking and you quickly take cover behind some crates. One of them says
+    \"Hey guys, I just got word from the captain that two pirate ships are attacking
+    us and that we might be boarded soon, so keep an eye out for that scum.\"\r\nYou
+    carefully look over the crates and you see three guards guarding a big crate.
+    All three are heavily armed.\r\n\r\nYou could try to talk to them, but they are
+    just as likely to see you as a pirate. You could also keep listening, but that
+    would make you look even more suspicious when they find you.\r\n\r\nWhat do you
+    do?\r\n1. Approach them.\r\n2. Keep listening."
+  nextStates:
+  - {fileID: 11400000, guid: b420ca44541f91749897ad3802909cb2, type: 2}
+  - {fileID: 11400000, guid: b420ca44541f91749897ad3802909cb2, type: 2}

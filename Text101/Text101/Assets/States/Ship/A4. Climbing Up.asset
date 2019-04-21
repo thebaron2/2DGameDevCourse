@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 132d38ce12ca3b548b8f4986a4acea25, type: 3}
+  m_Name: A4. Climbing Up
+  m_EditorClassIdentifier: 
+  storyText: "You are almost at the top of the ladder when something big hits the
+    ship. The hit shakes you around and your head hits one of the steps. You frantically
+    try to grab something but you don't manage and fall all the way down.\r\n\r\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 370edfd0872d8ce44b22e278f19f4fde, type: 2}

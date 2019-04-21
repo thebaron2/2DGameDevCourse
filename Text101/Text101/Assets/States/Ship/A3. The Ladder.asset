@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 132d38ce12ca3b548b8f4986a4acea25, type: 3}
+  m_Name: A3. The Ladder
+  m_EditorClassIdentifier: 
+  storyText: "You decide the safest option would be the ladder. You don't know which
+    direction to go and there is no sign telling you what is where.\r\n\r\nWhere do
+    you go?\r\n1. Up.\r\n2. Down"
+  nextStates:
+  - {fileID: 11400000, guid: e807ad3d1f889424f8fe462f85dc1d2d, type: 2}
+  - {fileID: 11400000, guid: 9440705cfac06fb448507269549d7428, type: 2}

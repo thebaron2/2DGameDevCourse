@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 132d38ce12ca3b548b8f4986a4acea25, type: 3}
+  m_Name: A1. Unkown Room
+  m_EditorClassIdentifier: 
+  storyText: "You wake up in a bed, not knowing where or who you are. \r\nYou look
+    out the window and realize that you are on spaceship going through an asteroid
+    field and what looks like multiple ships following.\r\n\r\nAs you realize this
+    an alarm starts to go off, you are thinking one of the asteroids must have hit
+    the ship.\r\n\r\nYou quickly get dressed and head to the door to find out what's
+    going on.\r\n\r\nIn which direction do you go?\r\n1. Go right, towards an elevator.\r\n2.
+    Go left, towards an emergency ladder."
+  nextStates:
+  - {fileID: 11400000, guid: 1f80368f0d95f9a478d40bcfe8bb4467, type: 2}
+  - {fileID: 11400000, guid: 8b4683e52db90f04dbb6d563d15a7fcb, type: 2}
